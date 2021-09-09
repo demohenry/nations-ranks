@@ -1,8 +1,4 @@
-##### Principal Boilerplate para projetos NextJS, styled-components, storybook.
-
-Configurado com preferências pessoais, utilizando theme do React Avançado.
-
-###### global.ts & theme.ts
+# Nations Ranks
 
 
 
@@ -10,14 +6,6 @@ Configurado com preferências pessoais, utilizando theme do React Avançado.
 
 
 
-
-
-[`create-next-app` ``-- template typescript``](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-<br/>
-<br/>
-
-###### baseado no boilerplate React Avançado
 ---------------
 
 ## Getting Started
