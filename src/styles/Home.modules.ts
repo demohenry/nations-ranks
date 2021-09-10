@@ -1,8 +1,6 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.div`
-	.counts {
-		margin: 12px 0;
-		color: var(--text-color-secondary);
-	}
+	margin: 12px 0;
+	color: var(--text-color-secondary);
 `;
