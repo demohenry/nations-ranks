@@ -41,17 +41,35 @@ export const Heading = styled.div`
 		cursor: pointer;
 	}
 
+	.heading-arrow {
+		color: var(--primary-color);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		margin: 5px 0 0 2px;
+	}
+
 	.heading-name {
 		flex: 1;
 		padding: 20px;
 		color: var(--text-color-secondary);
 		font-weight: 500;
 		text-align: left;
+
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		justify-content: flex-start;
 	}
 	.heading-population {
 		flex: 1;
 		padding: 20px;
 		color: var(--text-color-secondary);
 		font-weight: 500;
+
+		display: flex;
+		justify-content: center;
+		align-items: center;
 	}
 `;
